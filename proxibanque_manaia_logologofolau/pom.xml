@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.formation</groupId>
-    <artifactId>proxibanque</artifactId>
+    <artifactId>proxibanque_manaia_logologofolau</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>proxibanque</name>
-    <description>proxibanque</description>
+    <name>proxibanque_manaia_logologofolau</name>
+    <description>proxibanque_manaia_logologofolau</description>
     <url/>
     <licenses>
         <license/>
